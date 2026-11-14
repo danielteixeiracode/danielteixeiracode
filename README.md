@@ -1,15 +1,17 @@
 # Daniel Teixeira
 
-AI Engineer que constrói agentes, automações e integrações que resolvem problemas reais de negócio.
+Desenvolvedor de software com especialidade em IA: construo aplicações, automações e integrações,
+e uso agentes e LLMs onde eles resolvem problemas reais de negócio.
 
 ## Sobre
 
-AI Engineer na Novuskin, empresa dos EUA, em trabalho remoto. Meu foco é levar IA para a operação
-da empresa de ponta a ponta: do entendimento do problema ao sistema em produção, integrado às
-ferramentas que a equipe já usa.
+Desenvolvo software de ponta a ponta, do entendimento do problema ao sistema em produção.
+Hoje sou AI Engineer na Novuskin, empresa dos EUA, em trabalho remoto, onde levo IA para a
+operação da empresa, integrada às ferramentas que a equipe já usa.
 
 ## O que eu faço
 
+- Aplicações web full-stack (Next.js, TypeScript, Supabase)
 - Agentes de IA e aplicações com LLMs
 - Automação de processos e planilhas (n8n, scripts)
 - Integrações com APIs e plataformas de pagamento
