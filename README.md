@@ -21,8 +21,8 @@ operação da empresa, integrada às ferramentas que a equipe já usa.
 
 | Projeto | O que resolve | Stack |
 |---|---|---|
-| [Paideia](https://github.com/danielteixeiracode/Paideia) | Organiza a autoformação clássica (trilhas, leituras e planejamento) com um mentor de IA que conhece o progresso de cada usuário | Next.js · TypeScript · Supabase · Claude API |
-| [Rastreador de Preços](https://github.com/danielteixeiracode/Rastreador-de-Precos) | Acompanha preços em lojas online todos os dias e avisa por e-mail quando caem, sem intervenção manual | Python · Supabase · GitHub Actions |
+| [Paideia](https://github.com/danielteixeiracode/paideia) | Guia uma formação clássica por obras e funções pedagógicas, com um mentor de IA que usa o registro de cada aluno como contexto | Next.js · TypeScript · Supabase · Claude API |
+| [Rastreador de Preços](https://github.com/danielteixeiracode/rastreador-de-precos) | Acompanha preços em lojas online todos os dias e avisa por e-mail quando caem, sem intervenção manual | Python · Supabase · GitHub Actions |
 <!-- [PREENCHER: linha do dashboard Novuskin quando o repositório puder ser exibido] -->
 
 ## Stack
